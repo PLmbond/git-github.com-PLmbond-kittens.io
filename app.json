@@ -1,0 +1,14 @@
+{
+  "text": "",
+  "formats": [
+    {
+      "screen": {
+        "record format name": "myScreen",
+        "initial logic sequence": "[object Object]"
+      },
+      "items": []
+    }
+  ],
+  "keywords": [],
+  "long name aliases": true
+}
